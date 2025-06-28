@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item>
+  <version>1.1.0.0</version>
+  <url>https://yourserver.com/downloads/MyApp_1.1.0.0.msi</url>
+  <changelog>https://yourserver.com/downloads/changelog_1.1.0.0.html</changelog>
+  <mandatory>false</mandatory>
+</item>
