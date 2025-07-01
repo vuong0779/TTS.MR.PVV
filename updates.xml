@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-  <version>1.0.0.1</version>
-  <url>https://github.com/vuong0779/TTS.MR.PVV/releases/download/1.0.0.1/TTS.zip</url>
+  <version>1.0.0.2</version>
+  <url>https://github.com/vuong0779/TTS.MR.PVV/releases/download/1.0.0.2/TTS.zip</url>
   <changelog>https://raw.githubusercontent.com/vuong0779/TTS.MR.PVV/main/changelog.xml</changelog>
   <mandatory>true</mandatory>
 </item>
